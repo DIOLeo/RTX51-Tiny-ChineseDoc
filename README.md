@@ -1,13 +1,12 @@
-# RTX51 Tiny 中文文档
-
-        此文档根据RTX51 Tiny官方文档翻译而制，如果您有Keil 51的编译环境那么英文文件存放在\C51\Hlp\tr51.chm  
+# RTX51 Tiny 中文文档  
+        此文档根据RTX51 Tiny官方文档翻译而制，如果您有Keil 51的编译环境那么英文文件存放在\C51\Hlp\tr51.chm  
         使用环境Chmeditor 3.0 https://chmeditor.com/  
         随意转载，注明出处 https://github.com/DIOLeo/RTX51-Tiny-ChineseDoc  
         如果您对此文档有什么意见或建议欢迎提出  
         联系方式 1270693113@qq.com  
 ***
-## Changelog
-        V1.0    2017.12.08 18:56 Upload the CHM and other files
+## Changelog    更新日志
+        V1.0    2017.12.08 18:56 Upload the CHM and other files
 ***
 ## In the End    写在最后
 
