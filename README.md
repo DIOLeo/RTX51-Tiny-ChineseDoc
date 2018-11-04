@@ -4,7 +4,7 @@
         使用环境Chmeditor 3.0 https://chmeditor.com/  
         随意转载，注明出处 https://github.com/DIOLeo/RTX51-Tiny-ChineseDoc  
         如果您对此文档有什么意见或建议欢迎提出  
-        联系方式 1270693113@qq.com  
+        联系方式 diodev@outlook.com  
 ***
 ## Changelog    更新日志
         V1.0    2017.12.08 18:56 Upload the CHM and other files
